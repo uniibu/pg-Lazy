@@ -21,7 +21,7 @@
     "url": "git+https://github.com/uniibu/pg-Lazy.git"
   },
   "devDependencies": {
-    "jest": "^21.0.0",
+    "jest": "^22.0.0",
     "pg": "^7.1.2",
     "standard": "^10.0.2"
   },
