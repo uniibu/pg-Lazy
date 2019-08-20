@@ -32,7 +32,7 @@
     "mocha": "^6.1.4",
     "nyc": "^14.1.1",
     "pg": "^7.11.0",
-    "semistandard": "^13.0.1"
+    "semistandard": "^14.0.1"
   },
   "keywords": [
     "node-pg",
