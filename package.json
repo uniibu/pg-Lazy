@@ -57,7 +57,7 @@
   "dependencies": {
     "pg-minify": "^1.5.1",
     "pg-pool": "^2.0.7",
-    "semver": "^6.3.0"
+    "semver": "^7.0.0"
   },
   "peerDependencies": {
     "pg": "^7.14.0"
