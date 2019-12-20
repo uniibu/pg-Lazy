@@ -1721,9 +1721,9 @@ pg-minify@^1.5.1:
   integrity sha512-nqUTo8y9T0VhiJoWC0sK0+2S8hYDiu7CdH0Z9ijPi2iikiQ44mfcAFxEJxfvF8H3h/bDBvXthtOQPIB3pLWIow==
 
 pg-pool@^2.0.7:
-  version "2.0.7"
-  resolved "https://registry.yarnpkg.com/pg-pool/-/pg-pool-2.0.7.tgz#f14ecab83507941062c313df23f6adcd9fd0ce54"
-  integrity sha512-UiJyO5B9zZpu32GSlP0tXy8J2NsJ9EFGFfz5v6PSbdz/1hBLX1rNiiy5+mAm5iJJYwfCv4A0EBcQLGWwjbpzZw==
+  version "2.0.8"
+  resolved "https://registry.yarnpkg.com/pg-pool/-/pg-pool-2.0.8.tgz#f6d8c1727707cebcb1c50d0b1b770e0a031bf831"
+  integrity sha512-UE4H+4PT53RbwYaGxkeVDcMcp1g8EmYo91qeUugijsHwzV/RDpYVRWzmfiDisEQZhVDzyf/GUctNOrh+ZPJCGA==
 
 pg-types@^2.1.0:
   version "2.2.0"
